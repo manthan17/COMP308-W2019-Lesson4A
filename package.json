@@ -1,5 +1,5 @@
 {
-  "name": "lesson-3a",
+  "name": "lesson-4a",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -17,7 +17,7 @@
     "morgan": "~1.9.0",
     "popper.js": "^1.14.6"
   },
-  "description": "Express Generator Demo",
+  "description": "MongoDB Demo",
   "main": "server.js",
   "bin": {
     "lesson-3a": "server.js"
@@ -30,5 +30,13 @@
     "@types/express": "^4.16.1",
     "@types/morgan": "^1.7.35",
     "@types/node": "^10.12.18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manthan17/COMP308-W2019-Lesson4A.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manthan17/COMP308-W2019-Lesson4A/issues"
+  },
+  "homepage": "https://github.com/manthan17/COMP308-W2019-Lesson4A#readme"
 }
